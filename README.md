@@ -19,7 +19,7 @@ See StackOverFlow question and answer:
 * Install the extension via [modman](https://github.com/colinmollenhour/modman)
 * You can also [download from Github](https://github.com/augustash/ash_pdfuploadaftersupee9767/archive/master.zip) and unzip the archive in your project root
 
-## Dependencies
+## Depeendencies
 
 + `Mage_Core`
 + `Mage_Cms`
